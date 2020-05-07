@@ -68,7 +68,8 @@ public class CodingAssignment {
 	//kybd_input.close();
 	System.exit(0);
 	}else {
-	System.out.println("Start the program before ending");
+	//System.out.println("Start the program before ending");
+		System.out.println(CommonClass.restart_msg);
 	}
 	}
 	else {
